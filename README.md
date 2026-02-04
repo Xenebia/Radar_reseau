@@ -48,9 +48,6 @@ Il fonctionne en exploitant les outils systèmes (netsh, PowerShell) et respecte
 
 ---
 
-
----
-
 ## ▶️ Compilation & Exécution
 
 Ouvre un terminal (PowerShell ou CMD) dans le dossier du projet, puis :
