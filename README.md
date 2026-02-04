@@ -16,7 +16,7 @@ Ce projet implémente un radar réseau avec interface graphique en Java :
 - Liste des appareils avec leur état (ON / OFF)
 
 Le projet est conçu pour être **facile à compiler** et à utiliser sur Windows 11 (éducation ou autre).  
-Il fonctionne en exploitant les outils systèmes (netsh, PowerShell) et respecte le cadre législatif d’analyse réseau sur le réseau local. :contentReference[oaicite:0]{index=0}
+Il fonctionne en exploitant les outils systèmes (netsh, PowerShell) et respecte le cadre législatif d’analyse réseau sur le réseau local.
 
 ---
 
