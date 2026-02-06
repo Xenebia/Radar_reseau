@@ -64,7 +64,7 @@ java RadarScanner
 
 ## Aide et Comantaire
 
-Si pour une raison inconue le programme ne fonctione pas ou vous avez besion d'aide n'ésite pas a nous envoiez un mail ou un commentaire a : m8m7g0pkd@mozmail.com
+Si pour une raison inconue le programme ne fonctione pas ou vous avez besion d'aide n'ésite pas a nous envoiez un mail ou un commentaire a : m8m7g0pkd@mozmail.com ou aller sur les issues à coté de "<> Code"
 
 Pour télécharger Aduptium : https://adoptium.net/fr/temurin/releases?version=17&os=any&arch=any
 (le link vous met sur la page de téléchargement de Aduptium avec la bonne vertion conseilée)
